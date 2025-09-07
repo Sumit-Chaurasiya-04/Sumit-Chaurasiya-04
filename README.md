@@ -26,7 +26,6 @@
 - 🎓 2nd-year **B.Sc. Computer Science** student at Chaudhary Charan Singh University, Noida  
 - 💻 Currently learning **Python (AI + SQL), C, C++, HTML, CSS, JavaScript**  
 - 📊 Exploring **MS Office, Excel, Data Handling & Visualization**  
-- 📚 **Freelance Tutor** → Taught 180+ students (Nursery to Class 10) using tech-powered methods  
 - 🤖 Curious about **AI tools (ChatGPT, Claude, Gemini, etc.)** and how they simplify real-world tasks  
 - 🚀 Future Goals → Internships, open-source projects & sharpening **software + AI skills**  
 
