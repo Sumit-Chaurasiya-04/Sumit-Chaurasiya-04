@@ -1,70 +1,78 @@
 <h1 align="center">Hi 👋, I'm Sumit Chaurasiya</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
-
-
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/techy-anshikagupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumit-chaurasiya-in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
+
+  <a href="https://x.com/SumTheGreat04" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-  <a href="https://www.instagram.com/anshikagupta.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+
+  <a href="mailto:sum92082@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
 </div>
 
+---
 
-- 🔭 I’m currently working on **E-GAN (Evolutionary Generative Adversarial Networks)**
+### 💫 About Me  
+- 🎓 2nd-year **B.Sc. Computer Science** student at Chaudhary Charan Singh University, Noida  
+- 💻 Currently learning **Python (AI + SQL), C, C++, HTML, CSS, JavaScript**  
+- 📊 Exploring **MS Office, Excel, Data Handling & Visualization**  
+- 📚 **Freelance Tutor** → Taught 180+ students (Nursery to Class 10) using tech-powered methods  
+- 🤖 Curious about **AI tools (ChatGPT, Claude, Gemini, etc.)** and how they simplify real-world tasks  
+- 🚀 Future Goals → Internships, open-source projects & sharpening **software + AI skills**  
 
-- 🌱 I’m currently learning **Parallel Computation**
+---
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+### 🛠 Tech Stack  
 
-- 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
-
-- 📫 How to reach me **ansgupta.01@gmail.com**
-
-
-**Languages and Tools:**  
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
+---
 
+### 📊 GitHub Stats  
 
-<h2><i>My GitHub Stats</i></h2>
-
-<p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Chaurasiya&show_icons=true&theme=radical" height="159" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Chaurasiya&layout=compact&theme=radical" height="159" alt="langs"/>
 </p>
-<br>
-<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
 
-Hi
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Chaurasiya&theme=radical" height="159" alt="streak"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SumitChaurasiya&icon=0&color=6" alt="Profile Views"/>
+</p>
