@@ -73,18 +73,4 @@ Goal: internships → real projects → better communication.
   <img src="https://visitcount.itsvg.in/api?id=Sumit-Chaurasiya-04&icon=0&color=11" alt="profile-views" />
 </p>
 
----
 
-### 🔧 Small note — if any badge breaks later
-- Stats or streak widgets break if your username changes or the third-party service is down.  
-- To fix: update `username=` in the stats URLs to your GitHub username or try switching theme param (e.g., `&theme=radical`) — no extra skills required.
-
----
-
-### 🔜 Want it even louder?
-I can:
-- Turn this into a **full animation banner** (SVG-based, lightweight)  
-- Make a **terminal / hacker-mode** version (monospace + ASCII art)  
-- Create a **glass/neon card layout** using custom SVGs
-
-Tell me which one — I’ll deliver the exact README to paste, no back-and-forth required.
