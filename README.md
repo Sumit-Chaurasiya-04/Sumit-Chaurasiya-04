@@ -1,44 +1,87 @@
-<!-- Profile header -->
+<!-- Neon Hacker Header -->
 <h1 align="center">⚡ Sumit Chaurasiya</h1>
-<p align="center"><em>Learning. Building. Levelling up — AI + Software basics.</em></p>
+<h3 align="center">Learning. Building. Levelling up — one project at a time.</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,git,github,notion,figma" alt="tech-icons"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation" />
 </p>
 
 ---
 
-## Featured Projects
-- Portfolio (in progress) — will link repo
-- Python automation mini-tools
-- Excel dashboards & small web projects
+## 🚀 Who Am I?
+
+> Just a CS undergrad grinding daily to turn myself into someone who can build useful things.  
+> Learning the fundamentals. Fixing weaknesses. Exploring AI, Dev, and automation.
+
+- 🎓 **B.Sc. Computer Science (2nd year)** — CCSU Noida  
+- 💻 Learning: **Python (AI + SQL), C, C++, HTML, CSS, JS**  
+- 📊 Exploring: **Excel, Power BI, Data Handling, Visualization**  
+- 🤖 Tools I use daily: **ChatGPT, Claude, Gemini, Notion, GitHub**  
+- 🔥 Current focus:  
+  - Practical projects  
+  - Communication improvement  
+  - Stronger fundamentals  
+- 🎯 Long-term: Internships + Software Development + AI-powered tools
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Certifications
 
-<div align="center">
+**Be10X**
+- AI for Coding  
+- Python Programming (AI-powered)  
+- Excel – Basic → Advanced  
+- Excel Interview Mastery  
+- PowerPoint Mastery  
+- Personal Finance Mastery  
+- AI Tools + ChatGPT Workshop  
 
-<!-- GitHub Stats -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" />
-
-<!-- Languages -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-
-<!-- Streak -->
-<img height="150" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
-
-</div>
+**Other**
+- Web Development Certification – STP Computer Education  
+- ADCP — Ongoing  
+- AI & Productivity Tools Program — Ongoing  
 
 ---
 
-## Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumit-chaurasiya-in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://x.com/SumTheGreat04"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
-  <a href="mailto:sum92082@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
+## 🛠 Tech I Use  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sumit-Chaurasiya-04&icon=0&color=11" alt="profile-views" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,git,github,vscode,figma,notion" />
 </p>
+
+---
+
+## ⚡ Projects  
+*(Work in progress — adding more as I build)*
+
+- 🔹 **Portfolio Website (Dev + UI)**  
+- 🔹 **Python automation mini-tools**  
+- 🔹 **Excel dashboards & data analysis**  
+- 🔹 **Small web dev projects**
+
+---
+
+## 📊 GitHub Stats  
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Chaurasiya-04&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 📡 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-chaurasiya-in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/SumTheGreat04"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:sum92082@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+
+
+---
