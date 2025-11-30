@@ -15,17 +15,20 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <!-- Public-only stats (count_private removed) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Chaurasiya-04&show_icons=true&theme=tokyonight" alt="github-stats" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Chaurasiya-04&layout=compact&theme=tokyonight" alt="top-langs" height="150" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Chaurasiya-04&theme=tokyonight" alt="streak-stats" height="120" />
-</p>
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" />
+
+<!-- Languages -->
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+
+<!-- Streak -->
+<img height="150" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+
+</div>
 
 ---
 
