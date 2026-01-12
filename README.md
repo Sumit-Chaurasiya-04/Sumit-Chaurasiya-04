@@ -62,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Chaurasiya-04&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 📡 Connect With Me  
 
