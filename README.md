@@ -1,5 +1,5 @@
 <!-- Neon Hacker Header -->
-<h1 align="center">⚡ Sumit Chaurasiya</h1>
+<h1 align="center">Sumit Chaurasiya</h1>
 <h3 align="center">Learning. Building. Levelling up — one project at a time.</h3>
 
 <p align="center">
@@ -9,24 +9,24 @@
 
 ---
 
-## 🚀 Who Am I?
+## Who Am I?
 
 > Just a CS undergrad grinding daily to turn myself into someone who can build useful things.  
 > Learning the fundamentals. Fixing weaknesses. Exploring AI, Dev, and automation.
 
-- 🎓 **B.Sc. Computer Science (2nd year)** — CCSU Noida  
-- 💻 Learning: **Python (AI + SQL), C, C++, HTML, CSS, JS**  
-- 📊 Exploring: **Excel, Power BI, Data Handling, Visualization**  
-- 🤖 Tools I use daily: **ChatGPT, Claude, Gemini, Notion, GitHub**  
-- 🔥 Current focus:  
+- **B.Sc. Computer Science (2nd year)** — CCSU Noida  
+- Learning: **Python (AI + SQL), C, C++, HTML, CSS, JS**  
+- Exploring: **Excel, Power BI, Data Handling, Visualization**  
+- Tools I use daily: **ChatGPT, Claude, Gemini, Notion, GitHub**  
+- Current focus:  
   - Practical projects  
   - Communication improvement  
   - Stronger fundamentals  
-- 🎯 Long-term: Internships + Software Development + AI-powered tools
+- Long-term: Internships + Software Development + AI-powered tools
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 **Be10X**
 - AI for Coding  
@@ -39,12 +39,12 @@
 
 **Other**
 - Web Development Certification – STP Computer Education  
-- ADCP — Ongoing  
-- AI & Productivity Tools Program — Ongoing  
+- ADCP — DIIT, Noida 
+- AI Career Accelerator - Be10X 
 
 ---
 
-## 🛠 Tech I Use  
+## Tech I Use  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,git,github,vscode,figma,notion" />
@@ -52,13 +52,13 @@
 
 ---
 
-## ⚡ Projects  
+## Projects  
 *(Work in progress — adding more as I build)*
 
-- 🔹 **Portfolio Website (Dev + UI)**  
-- 🔹 **Python automation mini-tools**  
-- 🔹 **Excel dashboards & data analysis**  
-- 🔹 **Small web dev projects**
+- **Portfolio Website (Dev + UI)**  
+- **Python automation mini-tools**  
+- **Excel dashboards & data analysis**  
+- **Small web dev projects**
 
 ---
 
